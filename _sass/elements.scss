@@ -9,6 +9,10 @@ html, body {
 
 body {
 	font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+	background-image: url({{ site.baseurl }}/images/KozarzeLP1.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center,center;
 }
 
 a {
