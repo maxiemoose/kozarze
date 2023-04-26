@@ -1,16 +1,16 @@
 - name: Historia
-  link: /pricing/
+  link: /historia/
   new_window: false
   highlight: false
 - name: Zdjęcia
-  link: /blog/
+  link: /zdjecia/
   new_window: false
   highlight: false
 - name: Agroturystyka
-  link: /about/
+  link: /agro/
   new_window: false
   highlight: false
 - name: Kontakt
-  link: /contact/
+  link: /kontakt/
   new_window: false
   highlight: false
