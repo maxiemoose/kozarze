@@ -63,8 +63,6 @@ nav {
 	}
 
 	a:hover {
-
-		border-bottom: 1px solid rgba(0,0,0,.3);
 		color: #118927;
 	}
 
@@ -82,6 +80,7 @@ nav {
 
 	a.active {
 		color: #118927;
+		border-bottom: 2px solid rgba(0,0,0,1);
 	}
 
 }
