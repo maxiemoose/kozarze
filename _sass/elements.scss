@@ -1,5 +1,7 @@
 html {
-	background: #2b2b40;
+	background-image: url(https://raw.githubusercontent.com/maxiemoose/kozarze/main/images/KozarzeLP1.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 html, body {
@@ -9,10 +11,6 @@ html, body {
 
 body {
 	font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
-	background-image: url(https://raw.githubusercontent.com/maxiemoose/kozarze/main/images/KozarzeLP1.jpg);
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center,center;
 }
 
 a {
