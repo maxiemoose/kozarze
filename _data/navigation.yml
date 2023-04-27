@@ -6,10 +6,6 @@
   link: /zdjecia/
   new_window: false
   highlight: false
-- name: Agroturystyka
-  link: /agro/
-  new_window: false
-  highlight: false
 - name: Kontakt
   link: /kontakt/
   new_window: false
