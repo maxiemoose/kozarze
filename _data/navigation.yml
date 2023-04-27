@@ -2,8 +2,8 @@
   link: /historia/
   new_window: false
   highlight: false
-- name: Zdjęcia
-  link: /zdjecia/
+- name: Galeria
+  link: /galeria/
   new_window: false
   highlight: false
 - name: Kontakt
