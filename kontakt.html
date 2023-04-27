@@ -1,7 +1,7 @@
 ---
 title: Kontakt
-heading: Skontaktuj się ze mną
-description: jeśli chcesz współtworzyć tę stronę.
+heading: Możesz współtworzyć tę stronę
+description: napisz maila na poniższy adres:
 
 map:
   latitude: 52.66802561453536
@@ -12,9 +12,10 @@ map:
 
 <div class="contact-box">
 	<div class="contact-details">
-		<h3 class="editable">Dojazd:</h3>
+		<h3 class="editable">Dojazd do Kozarzy:</h3>
 		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
-
+	</div>
+	<div class="contact-details">
 		<h3 class="editable">Email:</h3>
 		<p><a href="mailto:support@example.com">kozarze.pl@gmail.com</a></p>
 	</div>
