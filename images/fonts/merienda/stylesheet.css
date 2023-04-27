@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'meriendaregular';
-    src: url('merienda-variablefont_wght-webfont.woff2') format('woff2'),
-         url('merienda-variablefont_wght-webfont.woff') format('woff');
+    src: url('https://github.com/maxiemoose/kozarze/blob/main/images/fonts/merienda/merienda-variablefont_wght-webfont.woff2') format('woff2'),
+         url('https://github.com/maxiemoose/kozarze/blob/main/images/fonts/merienda/merienda-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
