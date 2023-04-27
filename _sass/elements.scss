@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'meriendaregular';
+    font-family: 'merienda';
     src: url('https://github.com/maxiemoose/kozarze/blob/main/images/fonts/merienda/merienda-variablefont_wght-webfont.woff2') format('woff2'),
          url('https://github.com/maxiemoose/kozarze/blob/main/images/fonts/merienda/merienda-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
@@ -19,7 +19,7 @@ html, body {
 }
 
 body {
-	font-family: "San Francisco", "Merienda", "Helvetica", "Arial";
+	font-family: "San Francisco", "merienda", "Helvetica", "Arial";
 }
 
 
