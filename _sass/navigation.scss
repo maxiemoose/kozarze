@@ -1,16 +1,17 @@
 .nav-open nav {
 	left: 0;
+	padding: 2px 12%
 	a {
 		display: block;
-		padding: 2px 12%
+		
 	}
 
 	@media #{$mid-point} {
 		border: 0;
-		padding: 0px 20px;
-
+		
 		a {
 			display: inline;
+			padding: 0px 20px;
 		}
 	}
 }
