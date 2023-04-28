@@ -30,8 +30,8 @@ nav {
 	}
 
 	a {
-		margin: 0 3px;
-		padding: 20px 10px;
+	//	margin: 0 3px;
+	//	padding: 20px 10px;
 		border-bottom: 1px solid rgba(0,0,0,0);
 		color: #116127;
 		transition: .2s ease-in-out;
@@ -47,8 +47,8 @@ nav {
 			display: inline;
 			position: absolute;
 			right: 10px;
-			top: -5px;
-			font-size: 1.9em;
+			top: -4vh;
+			font-size: 3em;
 			border: 0;
 
 			@media #{$mid-point} {
