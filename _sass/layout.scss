@@ -33,10 +33,13 @@ header {
 			text-decoration: none;
 		}
 	}
-
+	.row {
+		display: flex;
+	}
 	.company-name {
 		font-size: 1.7em;
 		line-height: 0;
+		width: 90%;
 	//	@media only screen and (max-width: 800px){
 	//		padding-top: 8vw;
 	//	}
@@ -50,6 +53,24 @@ header {
 			max-height: 100px;
 			height: 10vw;
 			margin-right: 200%;
+		}
+	}
+	.nav-toggle {
+		float: right;
+		width: 10%;
+		display: inline;
+		position: absolute;
+		right: 15px;
+		top: -25%;
+		font-size: 1.5em;
+		border: 0;
+
+		@media #{$mid-point} {
+			display: none;
+		}
+
+		&:hover {
+			border: 0;
 		}
 	}
 }
