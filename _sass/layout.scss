@@ -56,14 +56,12 @@ header {
 		}
 	}
 	.nav-toggle {
-		float: right;
 		width: 10%;
 		display: inline;
 		position: absolute;
-		right: 15px;
-		top: -25%;
-		font-size: 1.5em;
-		border: 0;
+		right: 1px;
+		font-size: 2em;
+		color: $brand-color;
 
 		@media #{$mid-point} {
 			display: none;
