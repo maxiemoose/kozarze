@@ -59,11 +59,11 @@ header {
 		width: 10%;
 		display: inline;
 		position: absolute;
-		right: 1px;
+		right: 10px;
 		font-size: 2.5em;
 		color: $brand-color;
 		font-weight: bold;
-		top: 10%;
+		top: 5%;
 
 		@media #{$mid-point} {
 			display: none;
