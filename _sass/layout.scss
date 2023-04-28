@@ -40,6 +40,7 @@ header {
 		font-size: 1.7em;
 		line-height: 0;
 		width: 90%;
+		padding: 20 2%;
 	//	@media only screen and (max-width: 800px){
 	//		padding-top: 8vw;
 	//	}
@@ -64,6 +65,7 @@ header {
 		font-size: 2em;
 		color: $brand-color;
 		font-weight: bold;
+		padding: 20px 2%;
 
 		@media #{$mid-point} {
 			display: none;
